@@ -1,0 +1,2 @@
+# Unity-Labs
+This contain all the labs I have done, using unity. The finished product is always my main concern, but I think multiple people have a hard time trying to start and finish a product, (in this case a game). I propose that people should get to know an engine and themselves before they start rushing into a project, only to never finish. Starting small is always better then starting big, the process matters, as much as the final build matters.
